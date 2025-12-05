@@ -60,8 +60,6 @@ This prototype demonstrates:
 ---
 ## 📸 Prototype & Circuit Images
 
-## 📸 Prototype & Circuit Images
-
 <div align="center" style="margin: 10px 0; padding: 10px 0;">
   <strong>Block Diagram</strong><br>
   <img src="images/Block-Diagram.jpeg"
@@ -127,7 +125,7 @@ This prototype demonstrates:
 
 ## 🧑‍💻 Author  
 
-**Chetan**  
+**Vansh Thakur**  
 B.Tech CSE (Core)  
 Chitkara University, Punjab  
 
