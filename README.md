@@ -105,7 +105,7 @@ This prototype demonstrates:
 
 ---
 
-## 📌 Applications (Conceptual)  
+## 📌 Applications
 
 - Smart corridors and walkways in colleges and malls  
 - Awareness installations for renewable and sustainable energy  
