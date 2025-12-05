@@ -61,11 +61,11 @@ This prototype demonstrates:
 
 ## 📸 Prototype Images  
 
-![Block Diagram](images/block-diagram.jpg)  
-![Circuit Diagram](images/circuit-diagram.jpg)  
-![Breadboard Setup](images/breadboard-setup.jpg)  
-![Mounted on Wooden Base](images/mounted-base.jpg)  
-![Full Prototype with Plates](images/full-prototype-plates.jpg)  
+![Block Diagram](images/Block-Diargram.jpeg)  
+![Circuit Diagram](images/Circuit-Diagram.jpeg)  
+![Breadboard Setup](images/image1.jpeg)  
+![Mounted on Wooden Base](images/image1.jpeg)  
+![Full Prototype with Plates](images/image1.jpeg)  
 
 *(Rename your five uploaded images to the above filenames and place them in an `images/` folder in the repo.)*  
 
