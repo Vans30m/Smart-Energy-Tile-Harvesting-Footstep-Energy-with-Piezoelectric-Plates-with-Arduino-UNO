@@ -60,42 +60,50 @@ This prototype demonstrates:
 ---
 ## 📸 Prototype & Circuit Images
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>Block Diagram</strong><br>
-      <img src="images/Block-Diagram.jpeg" alt="Block diagram: Piezoelectric Generator to Rectifier to Voltage Regulator to Battery" width="500">
-    </td>
-  </tr>
-</table>
+## 📸 Prototype & Circuit Images
+
+<div align="center" style="margin: 10px 0; padding: 10px 0;">
+  <strong>Block Diagram</strong><br>
+  <img src="images/Block-Diagram.jpeg"
+       alt="Block diagram: Piezoelectric Generator to Rectifier to Voltage Regulator to Battery"
+       width="500"
+       style="margin: 10px; padding: 5px;">
+</div>
+
+<div align="center" style="margin: 10px 0; padding: 10px 0;">
+  <strong>Circuit Schematic</strong><br>
+  <img src="images/Circuit-Diagram.jpeg"
+       alt="Circuit showing Arduino UNO, bridge rectifier, capacitor, battery and piezoelectric plates"
+       width="650"
+       style="margin: 10px; padding: 5px;">
+</div>
 
 <table>
   <tr>
-    <td align="center">
-      <strong>Circuit Schematic</strong><br>
-      <img src="images/Circuit-Diagram.jpeg" alt="Circuit showing Arduino UNO, bridge rectifier, capacitor, battery and piezoelectric plates" width="650">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center">
+    <td align="center" style="padding: 10px;">
       <strong>Breadboard Prototype</strong><br>
-      <img src="images/image1.jpeg" alt="Breadboard prototype with Arduino UNO and LCD" width="450">
+      <img src="images/image1.jpeg"
+           alt="Breadboard prototype with Arduino UNO and LCD"
+           width="450"
+           style="margin: 10px; padding: 5px;">
     </td>
-    <td align="center">
+    <td align="center" style="padding: 10px;">
       <strong>Mounted on Wooden Base</strong><br>
-      <img src="images/image2.jpeg" alt="Arduino, LCD and breadboard mounted on a wooden base" width="450">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Full Tile with Piezo Plates</strong><br>
-      <img src="images/image3.jpeg" alt="Complete setup with multiple piezoelectric plates on wooden tile" width="900">
+      <img src="images/image2.jpeg"
+           alt="Arduino, LCD and breadboard mounted on a wooden base"
+           width="450"
+           style="margin: 10px; padding: 5px;">
     </td>
   </tr>
 </table>
+
+<div align="center" style="margin: 20px 0; padding: 10px 0;">
+  <strong>Full Tile with Piezo Plates</strong><br>
+  <img src="images/image3.jpeg"
+       alt="Complete setup with multiple piezoelectric plates on wooden tile"
+       width="900"
+       style="margin: 10px; padding: 5px;">
+</div>
 
 ---
 
