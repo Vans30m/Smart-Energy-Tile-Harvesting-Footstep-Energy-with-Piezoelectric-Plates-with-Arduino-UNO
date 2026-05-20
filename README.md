@@ -1,4 +1,4 @@
-# ⚡ Piezoelectric Energy Floor – Footstep Power Prototype  
+# Piezoelectric Energy Floor – Footstep Power Prototype  
 
 This project is a prototype piezoelectric energy floor that converts footsteps into small amounts of electrical energy. Pressure on the tile compresses piezoelectric plates, generating electricity that is rectified, stored, and used to power low‑power loads like LEDs to demonstrate the concept of footstep‑based energy harvesting.  
 
@@ -15,7 +15,7 @@ This project is a prototype piezoelectric energy floor that converts footsteps i
 
 ---
 
-## 🧰 Components Used  
+## Components Used  
 
 - Piezoelectric plates (number as per design)  
 - Full‑bridge rectifier (diodes or bridge module)  
@@ -27,7 +27,7 @@ This project is a prototype piezoelectric energy floor that converts footsteps i
 
 ---
 
-## 📝 Circuit Overview  
+## Circuit Overview  
 
 | Block               | Description                                      |
 |---------------------|--------------------------------------------------|
@@ -38,7 +38,7 @@ This project is a prototype piezoelectric energy floor that converts footsteps i
 
 ---
 
-## 🧠 Working Principle  
+## Working Principle  
 
 - When a person steps on the tile, mechanical stress is applied to the piezoelectric plates.  
 - Due to the piezoelectric effect, this stress produces an alternating voltage at the output of the plates.  
@@ -47,7 +47,7 @@ This project is a prototype piezoelectric energy floor that converts footsteps i
 
 ---
 
-## 🧪 Result  
+## Result  
 
 This prototype demonstrates:  
 
@@ -58,7 +58,7 @@ This prototype demonstrates:
 > Note: The prototype is intended for educational and demonstration purposes. The power output is low and not meant for large‑scale real‑world deployment yet.  
 
 ---
-## 📸 Prototype & Circuit Images
+## Prototype & Circuit Images
 
 <div align="center" style="margin: 10px 0; padding: 10px 0;">
   <strong>Block Diagram</strong><br>
@@ -105,7 +105,7 @@ This prototype demonstrates:
 
 ---
 
-## 📌 Applications
+## Applications
 
 - Smart corridors and walkways in colleges and malls  
 - Awareness installations for renewable and sustainable energy  
@@ -114,7 +114,7 @@ This prototype demonstrates:
 
 ---
 
-## 📈 Future Scope  
+## Future Scope  
 
 - Use higher‑efficiency piezoelectric materials and optimized mechanical design  
 - Scale the system with more tiles and better energy management circuits  
@@ -123,7 +123,7 @@ This prototype demonstrates:
 
 ---
 
-## 🧑‍💻 Author  
+## Author  
 
 **Vansh Thakur**  
 B.Tech CSE (Core)  
