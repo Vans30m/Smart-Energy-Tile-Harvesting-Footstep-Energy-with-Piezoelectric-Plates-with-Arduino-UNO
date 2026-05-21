@@ -4,7 +4,7 @@ This project is a prototype piezoelectric energy floor that converts footsteps i
 
 ---
 
-## 🚀 Features  
+## Features  
 
 - Prototype floor tile with embedded piezoelectric plates  
 - Generates voltage when a person steps on the tile  
